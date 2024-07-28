@@ -1,0 +1,21 @@
+[TextureStreaming]
+MinTextureResidentMipCount=0.0
+
+[ConsoleVariables]
+r.Streaming.PoolSize=0
+r.Streaming.UseFixedPoolSize=0
+r.Streaming.FramesForFullUpdate=8576
+r.Streaming.UseNewMetrics=0
+r.Streaming.HLODStrategy=0
+r.Streaming.HiddenPrimitiveScale=0.0
+r.Streaming.MaxEffectiveScreenSize=0
+r.Streaming.Boost=0
+r.Streaming.MipBias=0
+r.Streaming.UsePerTextureBias=0
+r.Streaming.DefragDynamicBounds=1
+r.Streaming.FullyLoadUsedTextures=1
+r.Streaming.LimitPoolSizeToVRAM=1
+r.Streaming.MaxTempMemoryAllowed=100
+r.TextureStreaming=True
+
+paste in UserEngine.ini

@@ -1,0 +1,6 @@
+[/Script/Engine.LocalPlayer]
+AspectRatioAxisConstraint=AspectRatio_MaintainYFOV
+SkeletalMeshLODBias=2
+ParticleLODBias=-1
+
+paste in UserEngine.ini

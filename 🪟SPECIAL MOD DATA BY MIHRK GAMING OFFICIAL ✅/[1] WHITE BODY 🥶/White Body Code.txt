@@ -1,0 +1,9 @@
+[ConsoleVariables]
+r.CharacterMinShadowFactor=999999999999
+r.CharacterDiffuseScale=4.999999
+r.CharacterDiffuseOffset=9.99999
+r.CharacterDiffusePower=false
+r.MinScreenRadiusForEarlyZPass=False
+r.CylinderMaxDrawHeight=false
+
+paste in UserEngine.ini

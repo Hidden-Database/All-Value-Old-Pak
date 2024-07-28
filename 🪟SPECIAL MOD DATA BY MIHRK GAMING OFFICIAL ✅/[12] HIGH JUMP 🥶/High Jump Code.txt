@@ -1,0 +1,4 @@
+[/Script/Engine.PhysicsSettings]
+DefaultTerminalVelocity=1000f
+
+paste in UserEngine.ini

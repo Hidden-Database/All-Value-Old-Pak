@@ -1,0 +1,5 @@
+[ConsoleVariables]
+r.CharacterDiffusePower=9999999999999999999999999999999999999999
+r.CharacterColorShadowFactor=Black
+
+paste in UserEngine.ini

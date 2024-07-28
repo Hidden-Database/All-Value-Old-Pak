@@ -1,0 +1,4 @@
+[ConsoleVariables] 
+chara.CanEnableRagdoll=100
+
+paste in UserEngine.ini

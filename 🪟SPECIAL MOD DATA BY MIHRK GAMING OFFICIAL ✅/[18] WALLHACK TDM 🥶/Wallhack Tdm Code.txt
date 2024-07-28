@@ -1,0 +1,4 @@
+[/Script/Engine.CollisionProfile]
++Profiles=(Name="BlockAll",CollisionEnabled=PhysicsOnly,ObjectTypeName="WorldStatic"
+
+paste in UserEngine.ini

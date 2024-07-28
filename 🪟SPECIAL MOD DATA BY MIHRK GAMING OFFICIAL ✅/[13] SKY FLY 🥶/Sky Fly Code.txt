@@ -1,0 +1,5 @@
+[/Script/Engine.PhysicsSettings]
+DefaultTerminalVelocity=9
+DefaultGravityZ=9
+
+paste in UserEngine.ini

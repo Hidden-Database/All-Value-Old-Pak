@@ -1,0 +1,4 @@
+[/Script/Engine.PhysicsSettings]
+DefaultGravityZ=1000f
+
+paste in UserEngine.ini
